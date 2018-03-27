@@ -106,7 +106,7 @@ public class UserController {
     	
     	userService.update(user, username, name, surename, email, phoneNumber, cardNumber);;
     	
-    	/*Go to change2*/
+    	/*Go to change3*/
     	
         return "personal";
     }
